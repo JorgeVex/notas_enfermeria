@@ -1,0 +1,33 @@
+[
+  {
+    "fecha": "2026-03-08",
+    "hora": "21:21:51",
+    "tipo_nota": "NOTA DE INGRESO",
+    "tipos_procedimiento": [
+      "INYECTOLOGÍA",
+      "CURACIÓN"
+    ]
+  },
+  {
+    "fecha": "2026-03-08",
+    "hora": "21:25:00",
+    "tipo_nota": "NOTA DE ENTREGA DE TURNO",
+    "tipos_procedimiento": []
+  },
+  {
+    "fecha": "2026-03-08",
+    "hora": "21:30:25",
+    "tipo_nota": "NOTA DE INGRESO",
+    "tipos_procedimiento": [
+      "CANALIZACIÓN"
+    ]
+  },
+  {
+    "fecha": "2026-03-08",
+    "hora": "21:30:33",
+    "tipo_nota": "NOTA DE INGRESO",
+    "tipos_procedimiento": [
+      "CANALIZACIÓN"
+    ]
+  }
+]
