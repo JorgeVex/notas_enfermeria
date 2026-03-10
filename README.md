@@ -123,4 +123,4 @@ notas_enfermeria_app/
 
 ---
 
-*Proyecto personal en fase beta. Desarrollado por un técnico en Análisis y Desarrollo de Software, actualmente estudiante de Ingeniería en Ciencia de Datos, desde la experiencia directa en facturación de urgencias.*
+*Proyecto personal en fase beta. Actualmente soy estudiante de Ingeniería en Ciencia de Datos, desde la experiencia directa en facturación de urgencias.*
